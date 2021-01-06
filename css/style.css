@@ -3,7 +3,7 @@ body{
 }
 section{
     height: 500px;
-    border: 2px solid red;
+    /* border: 2px solid red; */
 }
 h1{
     font-size: 50px;
@@ -48,26 +48,30 @@ p{
     height: 370px;
     float: left;
     margin-left: 2%;
+    padding-left: 1%;
     border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
 }
 .trio img{
     width: 100%;
 }
-.wi{
+.child-one{
     height: 200px;
     width: 50%;
     background-image: url(../images/Group_33094_1.png);
     background-repeat: repeat;
+    background-size: cover;
     background-position: center;
     margin: 150px auto;
     border-radius: 10px;
+    margin-bottom: 100px;
 }
 .left{
     height: 100px;
     width: 50%;
     float: left;
 }
-.inquiry-div{
+.inquiry-header{
     font-size: 40px;
     color: white;
     margin-top: 80px;
@@ -86,4 +90,18 @@ p{
     background-color: tomato;
     padding: 10px 20px;
     border-radius: 5px;
+}
+.child-two{
+    height: 140px;
+    width: 50%;
+    margin: 0px auto;
+    text-align: center;
+    color: #585858;
+}
+.child-two img{
+    width: 30px;
+    padding-right: 5px;
+}
+.inquiry{
+    height: 600px;
 }
