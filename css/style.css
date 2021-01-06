@@ -35,7 +35,7 @@ p{
     border-radius: 5px;
     padding: 10px 15px;
 }
-.hp{
+.project-header{
     text-align: center;
     color: #ff8367;
 }
@@ -101,4 +101,27 @@ p{
 .child-two img{
     width: 30px;
     padding-right: 5px;
+}
+.service{
+    background-color: #F8F9FC;
+}
+.service-header{
+    font-size: 40px;
+    text-align: center;
+    text-transform: uppercase;
+    color: salmon;
+}
+.service-trio{
+    width: 30%;
+    background-color: white;
+    height: 330px;
+    float: left;
+    margin-left: 2%;
+    padding-left: 1%;
+    padding-top: 10px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+}
+.service-trio img{
+    width: 100px;
 }
