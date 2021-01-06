@@ -35,3 +35,55 @@ p{
     border-radius: 5px;
     padding: 10px 15px;
 }
+.hp{
+    text-align: center;
+    color: #ff8367;
+}
+.project{
+    background-color: #F8F9FC;
+}
+.trio{
+    width: 30%;
+    background-color: white;
+    height: 370px;
+    float: left;
+    margin-left: 2%;
+    border-radius: 10px;
+}
+.trio img{
+    width: 100%;
+}
+.wi{
+    height: 200px;
+    width: 50%;
+    background-image: url(../images/Group_33094_1.png);
+    background-repeat: repeat;
+    background-position: center;
+    margin: 150px auto;
+    border-radius: 10px;
+}
+.left{
+    height: 100px;
+    width: 50%;
+    float: left;
+}
+.inquiry-div{
+    font-size: 40px;
+    color: white;
+    margin-top: 80px;
+    margin-left: 30px;
+}
+.right{
+    height: 100px;
+    width: 40%;
+    float: left;
+    padding-top: 100px;
+    text-align: right;
+}
+.chat{
+    color: white;
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
